@@ -3,7 +3,7 @@
 </a></h2>
 Hongbo Bi, [Disen Mo](https://firefly-m.github.io/Moodysson.github.io/), Shiyuan Li, Cong Zhang*<br>
 
-This is a code repository for the papar "Consensus-aware Foreground Refinement Network for Collaborative Camouflaged Object Detection" that accepted in *The Visual Computer* 2025.
+This is a code repository for the papar "Consensus-aware foreground refinement network for collaborative camouflaged object detection" that accepted in *The Visual Computer* 2025.
 
 <img src="./pics/FCNet_output.png">
 
